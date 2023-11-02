@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1579176407 source:/home/aculplay/Escritorio/SISTEMAS_OPERATIVOS/PRACTICAS_SO/Practica_6/1001/main.c
+	<stdio.h>
+	<string.h>
+	"error.h"
+	<unistd.h>
+	<sys/wait.h>
+	<sys/types.h>
+	<stdlib.h>
+	<fcntl.h>
+
