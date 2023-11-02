@@ -1,0 +1,2 @@
+Probar y entender las llamadas al sistema UNIX relacionadas con
+señales: signal, pause, alarm, kill

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574356136 source:/home/aculplay/Escritorio/PRACTICAS_SO/practica_3/comando_KIll/main.c
+	<stdio.h>
+	<stdlib.h>
+

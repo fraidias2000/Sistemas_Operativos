@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578642864 source:/home/aculplay/Escritorio/SISTEMAS_OPERATIVOS/PRACTICAS_SO/practica_5/Sleep/main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<string.h>
+

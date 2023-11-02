@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574357248 source:/home/aculplay/Escritorio/PRACTICAS_SO/practica_5/ejer91/main.c
+	<stdio.h>
+	<signal.h>
+
