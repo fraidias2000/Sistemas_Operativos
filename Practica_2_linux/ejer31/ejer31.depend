@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1574354250 source:/home/aculplay/Escritorio/PRACTICAS_SO/practica_3/ejer31/main.c
+	<sys/wait.h>
+	<sys/types.h>
+	"error.h"
+	<stdio.h>
+	<stdlib.h>
+

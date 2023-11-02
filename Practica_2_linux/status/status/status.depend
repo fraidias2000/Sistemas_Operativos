@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575022823 source:/home/aculplay/Escritorio/PRACTICAS_SO/practica_3/status/status/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<unistd.h>
+

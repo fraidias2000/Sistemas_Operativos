@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575021743 source:/home/aculplay/Escritorio/PRACTICAS_SO/practica_3/wait_y_exit/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/wait.h>
+
