@@ -1,0 +1,1 @@
+Programa que lee una línea en minúsculas y la convierte a mayúsculas
