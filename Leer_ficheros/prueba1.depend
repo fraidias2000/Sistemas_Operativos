@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579713725 source:/home/aculplay/Escritorio/SISTEMAS_OPERATIVOS/pruebas/ficheros/prueba1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+
