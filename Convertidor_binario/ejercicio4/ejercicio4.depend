@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570122570 source:c:\users\aculplay\desktop\ingenieria_informatica\2\sistemas_operativos\pr¡cticas\pruebas\convertidor_binario\ejercicio4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
